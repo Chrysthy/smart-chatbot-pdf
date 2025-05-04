@@ -46,23 +46,14 @@ You are a Software Engineering student preparing your thesis. With many accumula
 
 The content used for this project comes from a PDF document titled "Plant Care Guide", which contains valuable information about how to take care of plants.
 
-1. **Light Requirements**  
-   Different plants require different amounts of sunlight to thrive. Some need direct sunlight, while others do well in indirect light.
-
-2. **Watering Requirements**  
-   Proper watering is crucial for plant health. Over-watering or under-watering can harm the plant.
-
-3. **Soil Types**  
-   Different plants thrive in different soil types. Some need well-drained soil, while others prefer richer, more moist conditions.
-
-4. **Pest and Fungi Management**  
-   Common pests and fungal infections that can affect plants, and how to manage them.
-
-5. **Plant Symptoms**  
-   Signs of under-watering, over-watering, or improper lighting.
-
-6. **Recommended Plants**  
-   Suggestions for plants that are easy to grow or suitable for indoor environments.
+| **Topic**                   | **Description**                                                                                   |
+|----------------------------|---------------------------------------------------------------------------------------------------|
+| **Light Requirements**     | Different plants require different amounts of sunlight to thrive. Some need direct sunlight, while others do well in indirect light. |
+| **Watering Requirements**  | Proper watering is crucial for plant health. Over-watering or under-watering can harm the plant.  |
+| **Soil Types**             | Different plants thrive in different soil types. Some need well-drained soil, while others prefer richer, more moist conditions. |
+| **Pest and Fungi Management** | Common pests and fungal infections that can affect plants, and how to manage them.                  |
+| **Plant Symptoms**         | Signs of under-watering, over-watering, or improper lighting.                                     |
+| **Recommended Plants**     | Suggestions for plants that are easy to grow or suitable for indoor environments.                 |
 
 
   <br>
