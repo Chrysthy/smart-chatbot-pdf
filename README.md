@@ -8,6 +8,7 @@
 
 <p align="center">  
   <a href="#-scenarios">Scenario</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nb
   <a href="#-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-dataset-example">Dataset Example</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-sample-questions">Sample Questions</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -20,6 +21,13 @@
 
 ## 📸 Scenario
 You are a Software Engineering student preparing your thesis. With many accumulated PDF articles, it becomes difficult to locate and correlate important information.
+
+<br>
+
+## 🛠 Technologies
+- Python
+- Azure Foundry
+- OpenAI
 
 <br>
 
