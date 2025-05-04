@@ -14,7 +14,7 @@
   <a href="#-sample-questions">Sample Questions</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-goal">Goal</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-license">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-contributing">Contributing</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-contributing">Contributing</a>
 </p>
 
 <br>
@@ -84,3 +84,9 @@ Create an **intelligent chatbot** that reads PDFs, indexes their contents, and a
 
 ## 🫱🏻‍🫲🏻 Contributing
 <p> Contributions and feature requests are welcome! Please, feel free to do it! 😉 </p>
+
+<br>
+
+## ⚠️ Important Notice
+Due to limitations with my account, I wasn't able to access some essential resources that require a paid plan. 
+However, I understand the project’s logic and plan to revisit and implement it once I have full access to the required tools.
