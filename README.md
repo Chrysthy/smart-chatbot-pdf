@@ -61,11 +61,14 @@ The content used for this project comes from a PDF document titled "Plant Care G
 
   ## ❓ Sample Questions
   
-- "How much sunlight does a cactus need?"
-- "What type of soil is best for a fern?"
-- "How often should I water my succulents?"
-- "What are the symptoms of over-watering a plant?"
-- "How can I deal with pests on my plants?"
+| Questions |
+|-----------|
+| How often should I water an indoor plant? |
+| What is photosynthesis? |
+| Why are my plant’s leaves turning yellow? |
+| Which plants need more sunlight? |
+| How can I prevent root rot? |
+| What should I do if my plant has fungus? |
 
 <br>
 
