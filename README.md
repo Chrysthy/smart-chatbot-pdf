@@ -23,5 +23,16 @@ You are a Software Engineering student preparing your thesis. With many accumula
 
 <br>
 
+## ✨ Features
+
+- Upload PDF files for analysis
+- Index the content using vector embeddings
+- Integration with AI for generating contextual answers
+- Functional and user-friendly chatbot interface
+- Code modularization for reusability
+- Potential for scaling with multiple documents and sessions
+
+  <br>
+
 ## 🎯 Goal
 Create an **intelligent chatbot** that reads PDFs, indexes their contents, and answers questions based on the provided material, using **generative AI**.
