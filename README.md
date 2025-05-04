@@ -8,7 +8,6 @@
 
 <p align="center">  
   <a href="#-scenarios">Scenario</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-dataset-example">Dataset Example</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-sample-questions">Sample Questions</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
