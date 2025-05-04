@@ -17,3 +17,6 @@
 </p>
 
 <br>
+
+## 📸 Scenario
+You are a Software Engineering student preparing your thesis. With many accumulated PDF articles, it becomes difficult to locate and correlate important information.
