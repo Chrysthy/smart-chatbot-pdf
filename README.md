@@ -73,3 +73,11 @@ The content used for this project comes from a PDF document titled "Plant Care G
 
 ## 🎯 Goal
 Create an **intelligent chatbot** that reads PDFs, indexes their contents, and answers questions based on the provided material, using **generative AI**.
+
+<br>
+
+## 📜 License
+
+* This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/)
+
+<br>
