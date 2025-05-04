@@ -11,6 +11,7 @@
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-dataset-example">Dataset Example</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-sample-questions">Sample Questions</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-goal">Goal</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-license">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-contributing">Contributing</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -58,6 +59,17 @@ The content used for this project comes from a PDF document titled "Plant Care G
 
 
   <br>
+
+
+  ## ❓ Sample Questions
+  
+- "How much sunlight does a cactus need?"
+- "What type of soil is best for a fern?"
+- "How often should I water my succulents?"
+- "What are the symptoms of over-watering a plant?"
+- "How can I deal with pests on my plants?"
+
+<br>
 
 ## 🎯 Goal
 Create an **intelligent chatbot** that reads PDFs, indexes their contents, and answers questions based on the provided material, using **generative AI**.
