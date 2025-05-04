@@ -1,0 +1,22 @@
+? Perguntas que o chatbot pode responder com base nas informações do PDF
+
+* Quantas vezes devo regar uma planta de interior?
+* O que é fotossíntese?
+* Por que as folhas da minha planta estão amareladas?
+* Quais plantas precisam de mais luz solar?
+* Como sei se a planta está recebendo água suficiente?
+* Posso deixar minha planta de sol pleno dentro de casa?
+* Como prevenir o apodrecimento das raízes?
+* Minha planta tem fungos, o que devo fazer?
+* Como evitar pragas nas plantas?
+* O que fazer se as bordas das folhas da planta estão queimadas?
+* Como melhorar o solo da minha planta?
+* Qual é o melhor tipo de solo para samambaias?
+* Como posso saber se uma planta precisa de mais luz?
+* Quais plantas são boas para ambientes internos?
+* Como posso corrigir a cor amarelada nas folhas da minha planta?
+* Por que a minha planta está murcha?
+* Como cuidar de suculentas durante o inverno?
+* O que devo fazer se minha planta de cacto estiver crescendo muito lentamente?
+* Posso usar fertilizantes caseiros nas minhas plantas?
+* Qual é o tipo de planta que menos precisa de água?
